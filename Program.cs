@@ -4,8 +4,8 @@
     {
         static void Main(string[] args)
         {
-            //operators.addition();
-            Calculator.add();
+            //Calculator.calc();
+            factorial.fact();
         }
     }
 }

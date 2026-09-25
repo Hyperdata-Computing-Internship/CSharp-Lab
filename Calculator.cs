@@ -6,7 +6,7 @@ namespace practiceC_
 {
     internal class Calculator
     {
-        public static void add()
+        public static void calc()
         {
             Console.WriteLine("press 1 to add");
             Console.WriteLine("press 2 to subtract");
