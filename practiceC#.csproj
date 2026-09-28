@@ -6,7 +6,7 @@
     <RootNamespace>practiceC_</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>practiceC_.pattern_printing</StartupObject>
+    <StartupObject>practiceC_.ticket_booking_system</StartupObject>
   </PropertyGroup>
 
 </Project>
