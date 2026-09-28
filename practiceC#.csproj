@@ -6,7 +6,7 @@
     <RootNamespace>practiceC_</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>practiceC_.Program</StartupObject>
+    <StartupObject>practiceC_.bank_management_system</StartupObject>
   </PropertyGroup>
 
 </Project>
